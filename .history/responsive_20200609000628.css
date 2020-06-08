@@ -38,8 +38,6 @@
     }
 
 @media screen and (min-width: 660px) {
-
-   
     /*************
     HEADER
     ***********/
@@ -55,7 +53,7 @@
 
     #logo {
         float: left;
-        margin-left: 5%;
+        margin-left: 5%
         text-align: left;
         width: 45%;
     }
@@ -66,12 +64,12 @@
 
     h2 {
         font-size: 0.8257em;
-        margin-bottom:20px;
+        margin-bottom:20px
     }
 
     header {
         border-bottom: 5px, solid #599a68;
-        margin-bottom: 60px;
+        margin-bottom: 60px
     }
 
 }
